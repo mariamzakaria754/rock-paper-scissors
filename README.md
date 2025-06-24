@@ -62,3 +62,9 @@ The project aims to enhance basic programming skills through simple logic and in
    You can check by running:
    `bash
    python --version
+   
+## 👩‍💻 Developed by:
+
+Mariam Zakaria  
+A passionate beginner developer learning through hands-on, creative projects. 💡  
+[LinkedIn](https://www.linkedin.com/in/mariam-zakaria-b11139294) | [GitHub](https://github.com/mariamzakaria754)
